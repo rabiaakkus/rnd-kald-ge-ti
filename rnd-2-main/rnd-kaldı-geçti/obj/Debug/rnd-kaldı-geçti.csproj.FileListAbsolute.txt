@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\bin\Debug\rnd-kaldı-geçti.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\bin\Debug\rnd-kaldı-geçti.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\bin\Debug\rnd-kaldı-geçti.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\obj\Debug\rnd-kaldı-geçti.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\obj\Debug\rnd-kaldı-geçti.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\obj\Debug\rnd_kaldı_geçti.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\obj\Debug\rnd_kaldı_geçti.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\obj\Debug\rnd-kaldı-geçti.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\obj\Debug\rnd-kaldı-geçti.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\obj\Debug\rnd-kaldı-geçti.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\rnd-kaldı-geçti\rnd-kaldı-geçti\obj\Debug\rnd-kaldı-geçti.pdb
